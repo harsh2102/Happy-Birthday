@@ -4,4 +4,4 @@ A special webpage to wish happy birthday.
 
 
 
-# Demo - happybirthdayjerry.netlify.app
+# Demo - https://happybirthdayjerry.netlify.app/
